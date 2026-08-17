@@ -1,4 +1,4 @@
-# NEXO — Tienda de tecnología (proyecto React)
+# BOXERA — Tienda de tecnología (proyecto React)
 
 Proyecto de e-commerce completo inspirado en tiendas de celulares y tecnología
 (catálogo, carrito y checkout), construido con **React + Vite + React Router**.
